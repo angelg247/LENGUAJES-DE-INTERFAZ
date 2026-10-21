@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="09- PUSH Y POP/09- PUSH Y POP.vcxproj" Id="81ff018e-18f5-416a-a5ba-a2a57afb581f" />
-</Solution>
