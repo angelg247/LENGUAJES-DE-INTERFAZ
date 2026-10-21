@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="15- MANIPULACION DE ARCHIVO/15- MANIPULACION DE ARCHIVO.vcxproj" />
+</Solution>
