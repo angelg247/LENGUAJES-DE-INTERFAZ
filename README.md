@@ -14,8 +14,9 @@
 Haz clic en el enlace para ver el código fuente de cada práctica:
 
 1. [Ciclos numéricos](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/01-%20CICLOS%20NUMERICOS/01-%20CICLOS%20NUMERICOS/Main.asm)
-2. [Captura y desplegado de mensajes](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/02-%20CAPTURA%20Y%20DESPLEGADO%20DE%20MENSAJES/02-%20CAPTURA%20Y%20DESPLEGADO%20DE%20MENSAJES/Main.asm)
-3. [Comparación y prueba](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/03-%20COMPARACION%20Y%20PRUEBA/03-%20COMPARACION%20Y%20PRUEBA/Main.asm)
+2. [Captura y desplegado de mensajes](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/02-%20CAPTURA%20Y%20DESPLEGADO%20DE%20MENSAJE/02-%20CAPTURA%20Y%20DESPLEGADO%20DE%20MENSAJE/Main.asm)
+3. [Comparación y prueba](
+https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/03-%20COMPARACION%20Y%20PRUEBA/03-%20COMPARACION%20Y%20PRUEBA/Main.asm)
 4. [Saltos](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/04-%20SALTOS/04-%20SALTOS/Main.asm)
    - 4.1. [Mayor, menor o igual con entrada del usuario](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/04.1-%20MAYOR%20MENOR%20O%20IGUAL/04.1-%20MAYOR%20MENOR%20O%20IGUAL/Main.asm)
 5. [Condicionales](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/05-%20CONDICIONALES/05-%20CONDICIONALES/Main.asm)
