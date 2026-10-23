@@ -1,7 +1,9 @@
-;MATERIA: LENGUAJES DE INTERFAZ
-;ALUMNO: GRANDE ESPINOZA JOSE ANGEL
-;HORARIO: 8:00 - 9:00
-;DOCENTE: JOSE LUIS MEDINA JIMENEZ
+; Materia: Lenguajes de Interfaz
+; Alumno: José Ángel Grande Espinoza
+; Horario: 8:00 - 9:00 hrs
+; Docente: Dr. José Luis Medina Jiménez
+; Práctica: 12. Desplazamiento y rotacion
+; Descripción: Programa que muestra el desplazamiento y rotacion de bits 
 
 INCLUDE Irvine32.inc
 

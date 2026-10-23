@@ -1,7 +1,9 @@
-;MATERIA: LENGUAJES DE INTERFAZ
-;ALUMNO: GRANDE ESPINOZA JOSE ANGEL
-;HORARIO: 8:00 - 9:00
-;DOCENTE: JOSE LUIS MEDINA JIMENEZ
+; Materia: Lenguajes de Interfaz
+; Alumno: José Ángel Grande Espinoza
+; Horario: 8:00 - 9:00 hrs
+; Docente: Dr. José Luis Medina Jiménez
+; Práctica: 7. Validacion de formato
+; Descripción: validacion de que una cadena ingresada cumpla con el formato exacto de tres letras mayusculas, un guion y tres digitos
 
 INCLUDE Irvine32.inc
 

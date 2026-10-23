@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoseA\\source\\repos\\Practicas Ensamblador\\10- CADENA CON DECIMAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E571A66-C5B3-4531-AFDF-D6CDB1DA02B0}|10- CADENA CON DECIMAL\\10- CADENA CON DECIMAL.vcxproj|C:\\Users\\JoseA\\source\\repos\\Practicas Ensamblador\\10- CADENA CON DECIMAL\\10- CADENA CON DECIMAL\\Main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1E571A66-C5B3-4531-AFDF-D6CDB1DA02B0}|10- CADENA CON DECIMAL\\10- CADENA CON DECIMAL.vcxproj|solutionrelative:10- CADENA CON DECIMAL\\Main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.asm",
+              "DocumentMoniker": "C:\\Users\\JoseA\\source\\repos\\Practicas Ensamblador\\10- CADENA CON DECIMAL\\10- CADENA CON DECIMAL\\Main.asm",
+              "RelativeDocumentMoniker": "10- CADENA CON DECIMAL\\Main.asm",
+              "ToolTip": "C:\\Users\\JoseA\\source\\repos\\Practicas Ensamblador\\10- CADENA CON DECIMAL\\10- CADENA CON DECIMAL\\Main.asm",
+              "RelativeToolTip": "10- CADENA CON DECIMAL\\Main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-21T05:30:07.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

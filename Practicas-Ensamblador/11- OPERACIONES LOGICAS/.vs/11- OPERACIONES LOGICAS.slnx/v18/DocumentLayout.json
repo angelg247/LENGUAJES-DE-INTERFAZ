@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoseA\\Desktop\\LENGUAJES-DE-INTERFAZ\\Practicas-Ensamblador\\11- OPERACIONES LOGICAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5976E2C0-3570-4679-98E0-3125871D8F3B}|11- OPERACIONES LOGICAS\\11- OPERACIONES LOGICAS.vcxproj|C:\\Users\\JoseA\\Desktop\\LENGUAJES-DE-INTERFAZ\\Practicas-Ensamblador\\11- OPERACIONES LOGICAS\\11- OPERACIONES LOGICAS\\Main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5976E2C0-3570-4679-98E0-3125871D8F3B}|11- OPERACIONES LOGICAS\\11- OPERACIONES LOGICAS.vcxproj|solutionrelative:11- OPERACIONES LOGICAS\\Main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.asm",
+              "DocumentMoniker": "C:\\Users\\JoseA\\Desktop\\LENGUAJES-DE-INTERFAZ\\Practicas-Ensamblador\\11- OPERACIONES LOGICAS\\11- OPERACIONES LOGICAS\\Main.asm",
+              "RelativeDocumentMoniker": "11- OPERACIONES LOGICAS\\Main.asm",
+              "ToolTip": "C:\\Users\\JoseA\\Desktop\\LENGUAJES-DE-INTERFAZ\\Practicas-Ensamblador\\11- OPERACIONES LOGICAS\\11- OPERACIONES LOGICAS\\Main.asm",
+              "RelativeToolTip": "11- OPERACIONES LOGICAS\\Main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-21T05:37:29.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

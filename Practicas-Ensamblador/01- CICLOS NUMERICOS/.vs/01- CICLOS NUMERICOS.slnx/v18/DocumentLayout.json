@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoseA\\Desktop\\LENGUAJES-DE-INTERFAZ\\Practicas-Ensamblador\\01- CICLOS NUMERICOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF22756-9348-428B-83B1-2C0EFE810539}|01- CICLOS NUMERICOS\\01- CICLOS NUMERICOS.vcxproj|C:\\Users\\JoseA\\Desktop\\LENGUAJES-DE-INTERFAZ\\Practicas-Ensamblador\\01- CICLOS NUMERICOS\\01- CICLOS NUMERICOS\\Main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AAF22756-9348-428B-83B1-2C0EFE810539}|01- CICLOS NUMERICOS\\01- CICLOS NUMERICOS.vcxproj|solutionrelative:01- CICLOS NUMERICOS\\Main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.asm",
+              "DocumentMoniker": "C:\\Users\\JoseA\\Desktop\\LENGUAJES-DE-INTERFAZ\\Practicas-Ensamblador\\01- CICLOS NUMERICOS\\01- CICLOS NUMERICOS\\Main.asm",
+              "RelativeDocumentMoniker": "01- CICLOS NUMERICOS\\Main.asm",
+              "ToolTip": "C:\\Users\\JoseA\\Desktop\\LENGUAJES-DE-INTERFAZ\\Practicas-Ensamblador\\01- CICLOS NUMERICOS\\01- CICLOS NUMERICOS\\Main.asm",
+              "RelativeToolTip": "01- CICLOS NUMERICOS\\Main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-21T03:33:11.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

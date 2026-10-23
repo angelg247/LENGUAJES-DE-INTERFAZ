@@ -1,7 +1,10 @@
-;MATERIA: LENGUAJES DE INTERFAZ
-;ALUMNO: GRANDE ESPINOZA JOSE ANGEL
-;HORARIO: 8:00 - 9:00
-;DOCENTE: JOSE LUIS MEDINA JIMENEZ
+; Materia: Lenguajes de Interfaz
+; Alumno: José Ángel Grande Espinoza
+; Horario: 8:00 - 9:00 hrs 
+; Docente: Dr. José Luis Medina Jiménez
+; Práctica: 2. Captura y desplegado de mensajes
+; Descripción: Programa que captura una cadena y la despliega en pantalla
+
 
 INCLUDE Irvine32.inc
 

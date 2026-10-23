@@ -1,7 +1,10 @@
-;MATERIA: LENGUAJES DE INTERFAZ
-;ALUMNO: GRANDE ESPINOZA JOSE ANGEL
-;HORARIO: 8:00 - 9:00
-;DOCENTE: JOSE LUIS MEDINA JIMENEZ
+; Materia: Lenguajes de Interfaz
+; Alumno: José Ángel Grande Espinoza
+; Horario: 8:00 - 9:00 hrs 
+; Docente: Dr. José Luis Medina Jiménez
+; Práctica: 6. Decremento e incremento
+; Descripción: Programa que valida un PIN con 3 intentos, usando la instrucción DEC 
+; para bloquear el acceso al llegar a cero
 
 INCLUDE Irvine32.inc
 

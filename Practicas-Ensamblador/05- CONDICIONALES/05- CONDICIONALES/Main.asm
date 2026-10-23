@@ -1,7 +1,9 @@
-;MATERIA: LENGUAJES DE INTERFAZ
-;ALUMNO: GRANDE ESPINOZA JOSE ANGEL
-;HORARIO: 8:00 - 9:00
-;DOCENTE: JOSE LUIS MEDINA JIMENEZ
+; Materia: Lenguajes de Interfaz
+; Alumno: José Ángel Grande Espinoza
+; Horario: 8:00 - 9:00 hrs 
+; Docente: Dr. José Luis Medina Jiménez
+; Práctica: 5. Condicionales
+; Descripción: Programa que imprime los numeros del 1 al 100, mediante While(jg) y DoWhile(jle)
 
 INCLUDE Irvine32.inc
 

@@ -1,7 +1,9 @@
-;MATERIA: LENGUAJES DE INTERFAZ
-;ALUMNO: GRANDE ESPINOZA JOSE ANGEL
-;HORARIO: 8:00 - 9:00
-;DOCENTE: JOSE LUIS MEDINA JIMENEZ
+; Materia: Lenguajes de Interfaz
+; Alumno: José Ángel Grande Espinoza
+; Horario: 8:00 - 9:00 hrs 
+; Docente: Dr. José Luis Medina Jiménez
+; Práctica: 1. Ciclos numéricos
+; Descripción: Programa que utiliza un ciclo loop para imprimir números "HOLA, MUNDO!" 5 VECES
 
 INCLUDE Irvine32.inc
 

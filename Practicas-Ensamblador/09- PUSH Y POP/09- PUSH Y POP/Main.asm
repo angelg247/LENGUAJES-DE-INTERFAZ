@@ -1,7 +1,9 @@
-;MATERIA: LENGUAJES DE INTERFAZ
-;ALUMNO: GRANDE ESPINOZA JOSE ANGEL
-;HORARIO: 8:00 - 9:00
-;DOCENTE: JOSE LUIS MEDINA JIMENEZ
+; Materia: Lenguajes de Interfaz
+; Alumno: José Ángel Grande Espinoza
+; Horario: 8:00 - 9:00 hrs
+; Docente: Dr. José Luis Medina Jiménez
+; Práctica: 9. Push y pop
+; Descripción: Uso de una pila mediante push y pop, y manejo de esta mediante call y ret
 
 INCLUDE Irvine32.inc
 
