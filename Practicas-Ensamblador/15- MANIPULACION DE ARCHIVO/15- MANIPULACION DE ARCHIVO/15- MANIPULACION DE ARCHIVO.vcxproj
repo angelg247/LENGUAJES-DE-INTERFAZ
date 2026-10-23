@@ -24,6 +24,7 @@
     <ProjectGuid>{8ccd1eab-6e9b-48b3-99e9-0af04cd216e1}</ProjectGuid>
     <RootNamespace>_15__MANIPULACION_DE_ARCHIVO</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>15- MANIPULACION DE ARCHIVOS</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

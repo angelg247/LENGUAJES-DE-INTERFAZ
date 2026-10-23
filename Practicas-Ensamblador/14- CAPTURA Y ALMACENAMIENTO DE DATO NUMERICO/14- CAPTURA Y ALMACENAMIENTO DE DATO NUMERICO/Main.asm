@@ -2,7 +2,7 @@
 ; Alumno: José Ángel Grande Espinoza
 ; Horario: 8:00 - 9:00 hrs
 ; Docente: Dr. José Luis Medina Jiménez
-; Práctica: 14. Captura y almacenamiento
+; Práctica: 14. Captura y almacenamiento de datos numericos
 ; Descripción: Programa que captura cadenas numéricas ASCII, las valida, 
 ; convierte a entero y actualiza el inventario.
 

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\JoseA\\source\\repos\\Practicas Ensamblador\\15- MANIPULACION DE ARCHIVO\\",
+  "WorkspaceRootPath": "C:\\Users\\JoseA\\Desktop\\LENGUAJES-DE-INTERFAZ\\Practicas-Ensamblador\\15- MANIPULACION DE ARCHIVO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CCD1EAB-6E9B-48B3-99E9-0AF04CD216E1}|15- MANIPULACION DE ARCHIVO\\15- MANIPULACION DE ARCHIVO.vcxproj|C:\\Users\\JoseA\\source\\repos\\Practicas Ensamblador\\15- MANIPULACION DE ARCHIVO\\15- MANIPULACION DE ARCHIVO\\Main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8CCD1EAB-6E9B-48B3-99E9-0AF04CD216E1}|15- MANIPULACION DE ARCHIVO\\15- MANIPULACION DE ARCHIVO.vcxproj|C:\\Users\\JoseA\\Desktop\\LENGUAJES-DE-INTERFAZ\\Practicas-Ensamblador\\15- MANIPULACION DE ARCHIVO\\15- MANIPULACION DE ARCHIVO\\Main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8CCD1EAB-6E9B-48B3-99E9-0AF04CD216E1}|15- MANIPULACION DE ARCHIVO\\15- MANIPULACION DE ARCHIVO.vcxproj|solutionrelative:15- MANIPULACION DE ARCHIVO\\Main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.asm",
-              "DocumentMoniker": "C:\\Users\\JoseA\\source\\repos\\Practicas Ensamblador\\15- MANIPULACION DE ARCHIVO\\15- MANIPULACION DE ARCHIVO\\Main.asm",
+              "DocumentMoniker": "C:\\Users\\JoseA\\Desktop\\LENGUAJES-DE-INTERFAZ\\Practicas-Ensamblador\\15- MANIPULACION DE ARCHIVO\\15- MANIPULACION DE ARCHIVO\\Main.asm",
               "RelativeDocumentMoniker": "15- MANIPULACION DE ARCHIVO\\Main.asm",
-              "ToolTip": "C:\\Users\\JoseA\\source\\repos\\Practicas Ensamblador\\15- MANIPULACION DE ARCHIVO\\15- MANIPULACION DE ARCHIVO\\Main.asm",
+              "ToolTip": "C:\\Users\\JoseA\\Desktop\\LENGUAJES-DE-INTERFAZ\\Practicas-Ensamblador\\15- MANIPULACION DE ARCHIVO\\15- MANIPULACION DE ARCHIVO\\Main.asm",
               "RelativeToolTip": "15- MANIPULACION DE ARCHIVO\\Main.asm",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-10-21T06:10:22.707Z",
               "EditorCaption": ""

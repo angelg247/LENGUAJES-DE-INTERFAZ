@@ -24,6 +24,7 @@
     <ProjectGuid>{fed844ec-d06f-4905-aac1-94d171065aa2}</ProjectGuid>
     <RootNamespace>_13__STRING_HEXADECIMAL</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>13- OBTENCION DE UNA CADENA HEXADECIMAL</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

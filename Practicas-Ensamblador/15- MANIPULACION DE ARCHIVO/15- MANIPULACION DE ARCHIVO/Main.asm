@@ -2,7 +2,7 @@
 ; Alumno: José Ángel Grande Espinoza
 ; Horario: 8:00 - 9:00 hrs
 ; Docente: Dr. José Luis Medina Jiménez
-; Práctica: 15. Manipulacion de archivo
+; Práctica: 15. Manipulacion de archivos
 ; Descripción: Programa que crea un archivo txt, escribe "125" y maneja posible errores
 
 INCLUDE Irvine32.inc

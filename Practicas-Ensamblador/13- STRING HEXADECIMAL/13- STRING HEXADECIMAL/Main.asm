@@ -2,7 +2,7 @@
 ; Alumno: José Ángel Grande Espinoza
 ; Horario: 8:00 - 9:00 hrs
 ; Docente: Dr. José Luis Medina Jiménez
-; Práctica: 13. String y Hexadecimal
+; Práctica: 13. Obtencion de una cadena hexadecimal
 ; Descripción: Conversion de un valor numerico a una cadena hexadecimal usando la pila
 
 
