@@ -19,7 +19,7 @@ https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblad
 4. [Saltos](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/04-%20SALTOS/04-%20SALTOS/Main.asm)
 5. [Condicionales](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/05-%20CONDICIONALES/05-%20CONDICIONALES/Main.asm)
 6. [Decremento e incremento](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/06-%20DECREMENTO%20E%20INCREMENTO/06-%20DECREMENTO%20E%20INCREMENTO/Main.asm)
-   - 6.1. [Control de ocupación de un estacionamiento](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/tree/main/Practicas-Ensamblador/06.1-%20CONTROL%20DE%20OCUPACION%20DE%20UN%20ESTACINAMIENTO)
+   - 6.1. [Control de ocupación de un estacionamiento](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/06.1-%20CONTROL%20DE%20OCUPACION%20DE%20UN%20ESTACINAMIENTO/06.1-%20CONTROL%20DE%20OCUPACION%20DE%20UN%20ESTACINAMIENTO/Main.asm)
 7. [Validación de formato](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/07-%20VALIDACION%20DE%20FORMATO/07-%20VALIDACION%20DE%20FORMATO/Main.asm)
 8. [Operaciones aritméticas](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/08-%20OPERACIONES%20ARITMETICAS/08-%20OPERACIONES%20ARITMETICAS/Main.asm)
 9. [PUSH y POP](https://github.com/angelg247/LENGUAJES-DE-INTERFAZ/blob/main/Practicas-Ensamblador/09-%20PUSH%20Y%20POP/09-%20PUSH%20Y%20POP/Main.asm)
