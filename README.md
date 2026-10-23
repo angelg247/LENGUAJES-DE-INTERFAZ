@@ -1,6 +1,5 @@
 # Portafolio de Prácticas 
 
-**Datos Generales:**
 - **Materia:** Lenguajes de Interfaz
 - **Unidad:** Unidad 2. Programacion Basica
 - **Alumno:** José Ángel Grande Espinoza
